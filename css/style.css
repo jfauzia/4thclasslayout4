@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+}
+.header_relative{
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-color: darkseagreen;
+    text-align:center;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: dimgray;
+    overflow: hidden;
+}
+.logo{
+width: 20%;
+height: 80px;
+background-color: rgb(126, 11, 11);
+float: left;
+color: mintcream;
+}
+.nav{
+    width: 80%;
+    height: 80px;
+    background-color: green;
+    float: right;
+    color: mintcream;
+}
+.text_absolute{
+    position: absolute;
+    top: 40%;
+    right: 25%;
+    height: 80px;
+    width: 50%;
+    
+    background-color: rgb(13, 107, 107);
+    
+}
+.text_absolute h1{
+    color: #fff;
+}
+.button{
+    height: 50px;
+    background-color: indianred;
+    width: 90px;
+    position: absolute;
+    top: 68%;
+    right: 46%;
+    text-align: center;
+    overflow: hidden;
+}
+.button h1{
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.secvice{
+     overflow: hidden;
+     height: 600px;
+
+}
+.text{
+ height: 200px;
+ background-color: rgb(74, 121, 27);
+ text-align: center;
+    color: mintcream;
+}
+.box{
+ height: 400px;
+
+}
+.box1{
+    height: 400px;
+    width: 33.3%;
+    float: left;
+    background-color: lightsalmon;
+    text-align: center;
+    color: mintcream;
+}
+.box2{
+    height: 400px;
+    width: 33.3%;
+    float: left;
+    background-color: maroon;
+    text-align: center;
+    color: mintcream;
+    
+}
+.box3{
+    height: 400px;
+    width: 33.3%;
+    float: left;
+    background-color: mediumaquamarine;
+    text-align: center;
+    color: mintcream;
+}
+.footer{
+    height: 100px;
+    background-color: orchid;
+    text-align: center;
+}
